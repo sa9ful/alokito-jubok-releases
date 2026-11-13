@@ -1,8 +1,8 @@
 {
- "versionCode": 4,
- "versionName": "1.0.4",
- "apk": "AlokitoJubok-1.0.4.apk",
- "sha256": "d10352ab2e66605ed735cbb67376a298dad433460b563725695d0536f61a98ff",
- "notes": "ব্যাক বাটন ঠিক, নিচে টেনে উইন্ডো বন্ধ, অ্যাপ আরও মসৃণ",
+ "versionCode": 5,
+ "versionName": "1.0.5",
+ "apk": "AlokitoJubok-1.0.5.apk",
+ "sha256": "cc57177d3cfb738b98bad135db068682becc2d9494d9bc33f897f093ffb70052",
+ "notes": "ব্যালেন্স দেখার অ্যানিমেশন, পেজ বদলের ঝলকানি বন্ধ",
  "date": "2026-11-13"
 }
